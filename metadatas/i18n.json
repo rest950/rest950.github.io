@@ -2,19 +2,19 @@
    "zh_TW":{
       "cancel":"取消",
       "confirm":"確認",
-      "buy":"買入",
+      "buy":"買入GG",
       "sell":"賣出"
    },
    "zh_CN":{
       "cancel":"取消",
       "confirm":"确认",
-      "buy":"买入",
+      "buy":"买入GG",
       "sell":"卖出"
    },
    "en_US":{
       "cancel":"cancel",
       "confirm":"confirm",
-      "buy":"buy",
+      "buy":"buyGG",
       "sell":"sell"
    }
 }
