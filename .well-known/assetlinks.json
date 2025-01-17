@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "com.bitoex.bitopronew",
+      "package_name": "com.bitoex.bitopronew",
+      "sha256_cert_fingerprints": [
+        "CE:32:03:2F:10:D1:2B:CE:96:25:E0:F5:E9:B8:A8:56:64:C8:79:37:DF:59:44:FF:26:15:00:D1:C0:AC:EC:E9"
+      ]
+    }
+  }
+]
